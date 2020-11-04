@@ -63,5 +63,4 @@ export default function Home() {
     </div>
   )
 }
-	<canvas id="scene"></canvas>
-<!-- Relaunch the pen if you missed the animation ;) -->
+
